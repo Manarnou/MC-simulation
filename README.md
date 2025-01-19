@@ -1,6 +1,6 @@
 # MC-simulation code
 
-This project is an ongoing development of an MC simulation recreating the Molecular Dynamics (MD) simulation presented in the paper "Correlations in the Motion of Atoms in Liquid Argon" by A. Rahman (Argonne National Laboratory, 1964). 
+This project is an ongoing development of an MC simulation recreating the Molecular Dynamics (MD) simulation presented in the paper "Correlations in the Motion of Atoms in Liquid Argon" by A. Rahman(1964). 
 
 ## System and Simulation Parameters
 
