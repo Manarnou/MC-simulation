@@ -4,7 +4,7 @@ This project is an ongoing development of an MC simulation recreating the Molecu
 
 ## System and Simulation Parameters
 
-- Number of molecules (N): 864
+- Number of molecules (N): 864 ( initially N=100 is used to for the current testing process)
 - Box size: Cubic box with periodic boundary conditions
 - Density: 1.374 g/cm³
 - Temperature: 94.4 K
