@@ -1,0 +1,10 @@
+10000
+100
+1.0e-7 
+0.3d0 
+3.4d0 
+120.0d0 
+94.4d0 
+# Number of MC steps, Number of atoms=864 ,MC energy threshold,  tmax, sigma, epsilon, temperature 
+
+
