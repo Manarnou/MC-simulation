@@ -142,7 +142,7 @@ write(12, *) m, Et_prev*0.008314
 !!!!! Generation of new MC configurations !!!!!!!!!!!
 dE=1
 !do while (dE>-dE_cond) 
-do i=1, Nc  !!!!! N of new configurations to be considered 
+do i=1, Nc  !!!!! should be modified to apply acceptance rate. 
 
 call MCposition(tmax, N, L,rmin, x, y, z, R, x1, y1, z1)
 
