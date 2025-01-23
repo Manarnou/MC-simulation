@@ -147,8 +147,8 @@ Ry=y(i)-y(j)
 Rz=z(i)-z(j)
 
 Rx= Rx - box*dfloat(idint(Rx/(box/2.d0)))
-Ry= Ry - box*dfloat(idint(Rx/(box/2.d0)))
-Rz= Rz - box*dfloat(idint(Rx/(box/2.d0)))
+Ry= Ry - box*dfloat(idint(Ry/(box/2.d0)))
+Rz= Rz - box*dfloat(idint(Rz/(box/2.d0)))
 
 R(i,j)=sqrt(Rx**2 + Ry**2 +Rz**2)
 
