@@ -1,6 +1,7 @@
 # MC-simulation code
 
 This project is an ongoing development of an MC simulation recreating the Molecular Dynamics (MD) simulation presented in the paper "Correlations in the Motion of Atoms in Liquid Argon" by A. Rahman(1964). 
+Main code: New-simulation-MC-relaxation.f90, it is an update to the old-simulation.f90 
 
 ## System and Simulation Parameters
 
